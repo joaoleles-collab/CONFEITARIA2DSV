@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+Margin: 0%
+}
+
+body{
+    background-color:blanchedalmond
+}
+
+header{
+    font-size: 18pt;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    background-color: brown
+}
+
+main{
+ width: 90%;
+    background-color: rgb(238, 31, 4);
+    margin: 20px;
+    padding: 20px auto;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14pt;
+ }
+
+ .Bolo{
+    width: 50%;
+    margin: 20px;
+    display: flex;
+
+
+ }
+
+ .ImagemBolo{
+    width: 100%;
+    border-radius: 50px;
+
+
+ }
+ .descbolo{
+width: 100%;
+
+ }
