@@ -16,30 +16,42 @@ header{
 }
 
 main{
- width: 90%;
+ width: 100%;
     background-color: rgb(238, 31, 4);
-    margin: 20px;
-    padding: 20px auto;
+    margin: 20px auto;
+    padding: 80px auto;
     border-radius: 5px;
-    text-align: center;
+   text-align: center;
     font-size: 14pt;
+
  }
 
  .Bolo{
-    width: 50%;
-    margin: 20px;
-    display: flex;
+    width: 100%;
+    margin-top: 100px;
+    margin:10px;
+        display: flex;
+    background-color: chocolate;
+    text-align: center;
 
 
  }
 
- .ImagemBolo{
-    width: 100%;
-    border-radius: 50px;
+ .ImagemBolo img{
+    width: 500px;
+    margin: 10px;
+    border-radius: 10px;
+       
+    
 
 
  }
  .descbolo{
-width: 100%;
+width: 50%;
+padding: 20px;
+background-color: brown;
+text-align: center;
 
  }
+
+ 
