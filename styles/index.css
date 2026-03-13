@@ -22,35 +22,37 @@ main{
     padding: 80px auto;
     border-radius: 5px;
    text-align: center;
-    font-size: 14pt;
+    font-size: 18pt;
 
  }
 
  .Bolo{
-    width: 100%;
-    margin-top: 100px;
+    width: 80%;
+   padding: 20px;
     margin:10px;
         display: flex;
     background-color: chocolate;
-    text-align: center;
+    
 
 
  }
 
  .ImagemBolo img{
-    width: 500px;
+    width: 25%;
     margin: 10px;
     border-radius: 10px;
+    display: flex;
        
     
 
 
  }
  .descbolo{
-width: 50%;
-padding: 20px;
+width: 70%;
+padding: 30px;
+
 background-color: brown;
-text-align: center;
+
 
  }
 
